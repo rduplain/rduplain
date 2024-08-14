@@ -1,6 +1,6 @@
 Hello! 👋
 
-> Software as craft,
+> Software as craft, <br/>
 > command line as IDE.
 
 GitHub's timeline has history back to 2008. Projects since 2022 are privately hosted elsewhere. Easter eggs throughout, including the BSP/community patches that I fixed to run [a custom Linux][linux] on the [PineNote e-reader][pinenote], a [personal X11 patch][yeahconsole] that found its own way into [an Arch package][arch], the 15-year-old gists that [get traffic][mssql] and are [still marked as helpful][matplotlib] today, and that one time I got [a hand-written thank-you](img/elasticsearch.jpg) for [a one-line patch][elasticsearch] to elasticsearch. 🤣
