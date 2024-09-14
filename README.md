@@ -3,7 +3,7 @@ Hello! 👋
 > Software as craft, <br/>
 > command line as IDE.
 
-GitHub's timeline has history back to 2008. Projects since 2022 are privately hosted elsewhere. Easter eggs throughout, including:
+GitHub's timeline has history back to 2008. Production projects since 2022 are privately hosted elsewhere. Easter eggs throughout, including:
 
 * [an instrument controller][guppi] embedded in a Python REPL w/tab completion of memory locations
 * the BSP/community patches that I fixed to run [a custom Linux][linux] on the [PineNote e-reader][pinenote]
