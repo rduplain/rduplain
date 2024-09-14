@@ -3,7 +3,7 @@ Hello! 👋
 > Software as craft, <br/>
 > command line as IDE.
 
-GitHub's timeline has history back to 2008. Production projects since 2022 are privately hosted elsewhere. Easter eggs throughout, including:
+GitHub's [timeline][timeline] has history back to 2008. Production projects since 2022 are privately hosted elsewhere. Easter eggs throughout, including:
 
 * [an instrument controller][guppi] embedded in a Python REPL w/tab completion of memory locations
 * the BSP/community patches that I fixed to run [a custom Linux][linux] on the [PineNote e-reader][pinenote]
@@ -22,4 +22,5 @@ Oh, and I was [an early Flask contributor][flask] and got [commit access to CPyt
 [matplotlib]: https://gist.github.com/rduplain/1641344
 [mssql]: https://gist.github.com/rduplain/1293636
 [pinenote]: https://pine64.org/devices/pinenote/
+[timeline]: https://github.com/rduplain?from=2015-12-01&to=2015-12-31
 [yeahconsole]: https://github.com/rduplain/yeahconsole/commit/2248800
